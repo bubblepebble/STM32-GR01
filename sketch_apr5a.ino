@@ -35,7 +35,8 @@ void setup() {
 
   dht.begin();
   u8g2.begin();
-}
+}hhhhh
+
 
 void loop() {
   int motion = digitalRead(PIR_PIN);
